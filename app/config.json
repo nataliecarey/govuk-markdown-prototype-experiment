@@ -1,9 +1,4 @@
 {
-  "basePlugins": [
-    "@nowprototypeit/govuk",
-    "govuk-prototype-kit",
-    "govuk-frontend"
-  ],
   "respectFileExtensions": true,
   "plugin-specific": {
     "@nowprototypeit/govuk-frontend-adaptor": {
